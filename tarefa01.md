@@ -14,5 +14,9 @@
 - [`tarefa01-q02.sql`](./tarefa01-q02.sql): Seleciona o nome de todos os funcionários, exceto o mais idoso. (com VIEW)
 - [`tarefa01-q03.sql`](./tarefa01-q03.sql): Seleciona o nome e data de nascimento dos funcionários com mais de 21 anos que não são gerentes. (com CTE)
 - [`tarefa01-q04.sql`](./tarefa01-q04.sql): Seleciona o nome, salário e departamento dos funcionários que não são gerentes, ordenando pelo código do departamento. (com VIEW)
+- [`tarefa01-q18.sql`](./tarefa01-q18.sql): Seleciona o nome dos funcionários com maior salário de seu departamento (ou sem departamento), e o nome dos respectivos departamentos. (com CTE)
 
+---
 
+> _“Todo orgão se torna invisivel a partir do momento que ele consegue te alcançar”_  
+> — **Olavo de carvalho**
